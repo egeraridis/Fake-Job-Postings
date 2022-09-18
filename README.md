@@ -7,6 +7,8 @@ This project is a classification problem, aiming to the developement of a model 
 John Snow Labs provide very detailed instructions for installation on the following link:
 https://nlp.johnsnowlabs.com/docs/en/install
 
+![Screenshot](https://www.hhmglobal.com/wp-content/uploads/techno-trends/28422/johnsnowlabs_logo.jpg)
+
 
 ## Implementation using Google Collab:
 
