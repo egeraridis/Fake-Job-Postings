@@ -1,6 +1,6 @@
 # Projects Description:
 
-This project is a classification problem, aiming to the developement of a model capable of differentiating fake job postings from real ones. In order to achieve this goal, the big data processing engine Apache Spark was used on top of python implementation language. The main PySpark library used was Spark NLP.
+This project is a classification problem, aiming to the developement of a model capable of differentiating fake job postings from real ones. In order to achieve this goal, the big data processing engine Apache Spark was used on top of python implementation language. The main PySpark library used was Spark NLP. The models developed are required to use only the description collumn from the job postings csv file for training.
 
 ## Instructions for installation:
 
