@@ -20,6 +20,8 @@ https://nlp.johnsnowlabs.com/docs/en/install
 
 Google Collab 
 
+![Screenshot](https://www.hwlibre.com/wp-content/uploads/2021/11/google-colaboratory.jpg)
+
 ## Pretrained Classifiers used:
 
 - sent_small_bert_L8_128   (Bert Sentence Embedder)
