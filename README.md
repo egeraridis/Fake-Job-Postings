@@ -20,7 +20,7 @@ https://nlp.johnsnowlabs.com/docs/en/install
 
 Google Collab 
 
-![Screenshot](https://www.hwlibre.com/wp-content/uploads/2021/11/google-colaboratory.jpg)
+![Screenshot](https://miro.medium.com/max/502/1*9Q1rcr_peQdnGMwOYDBFhw.png)
 
 ## Pretrained Classifiers used:
 
