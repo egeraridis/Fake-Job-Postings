@@ -10,4 +10,23 @@ https://nlp.johnsnowlabs.com/docs/en/install
 
 ## Implementation using Google Collab:
 
-! pip install -q pyspark==3.2.0 spark-nlp==3.4.2. # basic requirements, others are included on the code sections.
+! pip install -q pyspark==3.2.0 spark-nlp==3.4.2. # basic requirements (or any other compatible pyspark and sparknlp versions). Other libraries are 
+                                                  # included on the code sections.
+
+
+## Setup used:
+
+Google Collab 
+
+## Pretrained Classifiers used:
+
+- sent_small_bert_L8_128   (Bert Sentence Embedder)
+-  Word Embeddings Classifierdl Pretrained
+
+
+Some conclusions can be seen in the presentation file!
+
+## Contact:
+
+Feel free to contact me on vagelis451@gmail.com
+
